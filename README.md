@@ -1,3 +1,14 @@
+
+# About Me:
+João Paulo Marinho Santos  
+Brazil  
+Estudante do curso bacharelado em Sistemas de Informação  
+20 Anos  
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=JottaP2&theme=merko&hide_border=false&include_all_commits=false&count_private=false)  ![](https://nirzak-streak-stats.vercel.app/?user=JottaP2&theme=merko&hide_border=false)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JottaP2&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
 # Hello world!
 
 ## I'm João Pedro, be welcome to my profile!
@@ -20,7 +31,7 @@
   </a>
 </div>
 
-<!--
+
 **jeopetto/jeopetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +44,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---
+
